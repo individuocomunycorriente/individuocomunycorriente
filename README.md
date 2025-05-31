@@ -5,10 +5,10 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDEwOTVvZ2N2bWh5b2FxcThsNmdweWZnNDcxdWxxOG5mbzc0YW5zeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/12UFgwjp2Cwo7e/giphy.gif" width="100px"> About Me  
 
-👨‍🎓 **Currently studying:** Civil Engineering in Computer Science at Pontificia Universidad Católica de Chile 
+👨‍🎓 **Currently studying** Civil Engineering in Computer Science at Pontificia Universidad Católica de Chile 
 
-💡 **Interested in:** Artificial Intelligence & Game Development  
-🎮 **Huge fan of:** Red Dead Redemption & Takehiko Inoue  
+💡 **Interested in** Artificial Intelligence & Game Development  
+🎮 **Huge fan of** Red Dead Redemption & Takehiko Inoue  
 🥊🏀🎵 **I love** Boxing, Basketball & Music
 
 ## 🛠️ Tech Stack  
