@@ -1,12 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVsbGR6b2ZlZnNoanhsZWw4cHdrYzFjc29qN2l6amN2cXNia2o2cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UvPvsX9oMlMWs/giphy.gif" width="100px"> Hi! I'm Danko 
 
 <p align="center">
-  <a href="https://www.tu-pagina.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-tu--pagina.dev-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Website" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/WYrz78UZPsNu3EJ91l/giphy.gif?cid=ecf05e47dwmw8g7hofshon1vf3ye3ywo06ni66lj2uvsu689&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </p> 
 
@@ -40,7 +34,7 @@ Here are some of the technologies I work with:
 </p>
 
 ## 📫 Contact Me   
-🌐 [Portfolio Website](https://www.tu-pagina.dev)  
+🌐 [Portafolio](https://www.dankoleivacontreras.dev)  
 ✉️ [Email](mailto:danko.leiva@uc.cl)
 
 ---
